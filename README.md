@@ -1,2 +1,1 @@
-# HelloWorld
-In the beginning .....
+# HelloWorld! It's Somto :( .
